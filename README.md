@@ -1,4 +1,4 @@
-<img src="https://svgshare.com/i/yU5.svg" />
+$\color{cyan}{Pavan\  K}$
 
 I am a native android developer with an interest in Competitive Programming.
 - Previously worked on [Bixby](https://github.com/bixbydevelopers), OTA updates for SDVs.
