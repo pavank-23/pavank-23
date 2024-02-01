@@ -2,7 +2,7 @@ $\color{cyan}{Pavan\  K}$
 
 I am a native android developer with an interest in Competitive Programming.
 - Previously worked on [Bixby](https://github.com/bixbydevelopers), OTA updates for SDVs.
-- Previously worked as Project Intern at [Samsung R&D](https://www.samsung.com/in/about-us/business-area/r-and-d-center/) and [Tata Exlsi](https://www.tataelxsi.com/)
+- Previously worked as Project Intern at [Samsung R&D](https://www.samsung.com/in/about-us/business-area/r-and-d-center/) and [Tata Elxsi](https://www.tataelxsi.com/)
 - Actively looking for summer internships for 2024. 
 
 ## <span style="color:#6AE688">**Tools and Technologies**</span>
