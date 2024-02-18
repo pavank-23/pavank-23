@@ -1,6 +1,6 @@
 $\color{cyan}{Pavan\  K}$
 
-I am a native android developer with an interest in Competitive Programming.
+I am a fullstack developer with an interest in Cybersecurity and Competitive Programming.
 - Previously worked on [Bixby](https://github.com/bixbydevelopers), OTA updates for SDVs.
 - Previously worked as Project Intern at [Samsung R&D](https://www.samsung.com/in/about-us/business-area/r-and-d-center/) and [Tata Elxsi](https://www.tataelxsi.com/)
 - Actively looking for summer internships for 2024. 
